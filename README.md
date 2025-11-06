@@ -22,6 +22,11 @@ This MATLAB project compares two models of population growth:
 
 Open `population_growth_clean.m` in MATLAB and run the script.  
 It will generate a plot comparing the two growth models.
+## 📄 PDF Version
+
+A complete PDF version of the Live Script is included for easy viewing:  
+- `population_growth_clean.pdf` — includes code, explanations, and plot
+
 
 ## Output
 
